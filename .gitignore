@@ -1,7 +1,14 @@
 ipch/
+.vs/
+x64/
+
 *.aps
 *.ncb
 *.opensdf
 *.sdf
 *.cachefile
 *.opendb
+*.pdb
+*.sln
+*.vcxproj
+*.vcxproj.filters
