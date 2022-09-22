@@ -1,4 +1,4 @@
-# Numerical-mehods-1-LAB-
+# Numerical-methods-1-LAB-
 This program (C++) takes the hard-coded function and interpolates it in 2 different ways depending on the choice of the nodes:
 
   1. Uniformly distributed nodes;
